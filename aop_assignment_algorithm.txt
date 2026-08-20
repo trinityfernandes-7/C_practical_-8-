@@ -1,0 +1,13 @@
+Algorithm:
+Step 1: Start
+Step 2: Declare variables for Employee Name, Employee ID, Basic Salary, HRA, DA, PF, Gross Salary and Net Salary.
+Step 3: Accept Employee Name from the user.
+Step 4: Accept Employee ID from the user.
+Step 5: Accept Basic Salary from the user.
+Step 6: Calculate HRA as 20% of Basic Salary.
+Step 7: Calculate DA as 10% of Basic Salary.
+Step 8: Calculate PF as 12% of Basic Salary.
+Step 9: Calculate Gross Salary by adding Basic Salary, HRA and DA.
+Step 10: Calculate Net Salary by subtracting PF from Gross Salary.
+Step 11: Display the Employee Salary Slip containing Employee Name, Employee ID, Basic Salary, HRA, DA, PF, Gross Salary and Net Salary.
+Step 12: Stop
